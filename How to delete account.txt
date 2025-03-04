@@ -1,0 +1,31 @@
+Account Deletion Request Instructions for Toximeter Users
+
+At Toximeter, we respect your privacy and provide you with the ability to request the deletion of your account and associated data. Below, you will find instructions on how to submit a deletion request, along with details on the types of data affected and our retention policy.
+
+How to Request Account Deletion
+
+To request the deletion of your account and personal data, please send an email to Toximeter.info@gmail.com with the subject "Account Deletion Request" and include the following details:
+
+Your registered email address or Google Play account used for login.
+A short confirmation stating that you wish to delete your account and associated data.
+Once we receive your request, we will process it within 7 business days and confirm the deletion via email.
+
+What Data Will Be Deleted?
+
+When you request account deletion, the following data will be permanently removed:
+
+Your profile information (email, username, and any personal details associated with your account).
+Any app-related activity logs stored on our servers.
+Advertising identifiers linked to your account.
+Additionally, we use Appodeal for advertising, which may collect and store anonymous usage data. Please refer to Appodeal's privacy policy (https://www.appodeal.com/privacy-policy/) to learn how to manage or request deletion of advertising-related data.
+
+What Data May Be Retained?
+
+Certain data may be retained for compliance with legal and security purposes, including:
+
+Transaction records (if applicable) for accounting and fraud prevention.
+Aggregated, non-personal analytics data used for service improvement (not linked to any specific user).
+Any data required to comply with legal or regulatory obligations.
+All retained data is securely stored and will be automatically deleted once it is no longer required.
+
+If you have any further questions regarding data deletion, feel free to contact us at Toximeter.info@gmail.com.
